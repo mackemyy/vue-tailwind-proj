@@ -8,7 +8,7 @@
     <div class="w-auto h-[48rem] bg-lightBlue">
         <div>
             <p class="font-semibold font-inter text-5xl tracking-wide text-white flex justify-center pt-[4.5rem]">Our Features</p>
-            <div class="ml-[22em] mr-[14em]">
+            <div class="ml-[25em] mr-[18em]">
                 <div class="columns-3 pt-[3rem]">
                     <div>
                         <img src="src\assets\icon1.svg" alt=""/>
