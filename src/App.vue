@@ -5,6 +5,7 @@
     <SchoolContent/>
     <FeatureContent/>
     <FeatureTextContent/>
+    <WhyAxis/>
   </div>
   
 </template>
@@ -15,6 +16,7 @@ import FeatureContent from './components/FeatureContent.vue';
 import FeatureTextContent from './components/FeatureTextContent.vue';
 import HeaderVue from "./components/Header.vue";
 import SchoolContent from './components/SchoolContent.vue';
+import WhyAxis from './components/WhyAxis.vue';
 
 
 
@@ -26,6 +28,7 @@ export default {
     SchoolContent,
     FeatureContent,
     FeatureTextContent,
+    WhyAxis,
   }
 }
 
