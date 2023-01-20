@@ -20,7 +20,7 @@ import ButtonsVue from './Buttons.vue';
                 <div>
                     <button class="bg-dirtyWhite text-darkBlue rounded-xl font-bold font-inter text-[16px] py-3 px-11 inline-flex items-center transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 duration-300 ...">
                         <span>Join Now</span>
-                        <img src="src\assets\arrow-right.svg" class="w-4 h-4 ml-3" alt="">
+                        <img src="src\assets\arrow.svg" class="w-4 h-4 ml-3" alt="">
                     </button>
                 </div>
             </div>
