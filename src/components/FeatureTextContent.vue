@@ -5,11 +5,11 @@
 </script>
 
 <template>
-    <div class="w-auto h-[53rem] bg-lightBlue">
+    <div class="w-auto h-[48rem] bg-lightBlue">
         <div>
             <p class="font-semibold font-inter text-5xl tracking-wide text-white flex justify-center pt-[4.5rem]">Our Features</p>
             <div class="ml-[22em] mr-[14em]">
-                <div class="columns-3 pt-16">
+                <div class="columns-3 pt-[3rem]">
                     <div>
                         <img src="src\assets\icon1.svg" alt=""/>
                         <img src="src\assets\icon2.svg" alt=""/>
@@ -25,21 +25,21 @@
                 </div>
                 <div class="columns-3 pt-4">
                     <div>
-                        <ul role="list" class="marker:text-white list-disc pl-5 space-y-1 text-white font-inter font-normal text-base tracking-wide">
+                        <ul role="list" class="marker:text-white list-disc pl-5 text-white font-inter font-normal text-base tracking-wide">
                             <li>Student & Lead Attendance</li>
                             <li>Membership Status</li>
                             <li>Program Status</li>
                             <li>Heat Map</li>
                             <li>Birthday Tracker</li>
                         </ul>
-                        <ul role="list" class="marker:text-white list-disc pl-5 space-y-1 text-white font-inter font-normal text-base tracking-wide">
+                        <ul role="list" class="marker:text-white list-disc pl-5 text-white font-inter font-normal text-base tracking-wide">
                             <li >Daily Attendance</li>
                             <li>Performance Status</li>
                             <li>Grade Management</li>
                             <li>Membership Status</li>
                             <li>Digital Agreements</li>
                         </ul>
-                        <ul role="list" class="marker:text-white list-disc pl-5 space-y-1 text-white font-inter font-normal text-base tracking-wide">
+                        <ul role="list" class="marker:text-white list-disc pl-5 text-white font-inter font-normal text-base tracking-wide">
                             <li >Custom Programs</li>
                             <li>Subranks</li>
                             <li>Grade Management</li>
@@ -49,7 +49,7 @@
                     </div>
                 </div>
 
-                <div class="columns-3 pt-16">
+                <div class="columns-3 pt-[3rem]">
                     <div>
                         <img src="src\assets\icon1.svg" alt=""/>
                         <img src="src\assets\icon4.svg" alt=""/>
@@ -65,21 +65,21 @@
                 </div>
                 <div class="columns-3 pt-4">
                     <div>
-                        <ul role="list" class="marker:text-white list-disc pl-5 space-y-1 text-white font-inter font-normal text-base tracking-wide">
+                        <ul role="list" class="marker:text-white list-disc pl-5 text-white font-inter font-normal text-base tracking-wide">
                             <li >Student & Lead Attendance</li>
                             <li>Membership Status</li>
                             <li>Program Status</li>
                             <li>Heat Map</li>
                             <li>Birthday Tracker</li>
                         </ul>
-                        <ul role="list" class="marker:text-white list-disc pl-5 space-y-1 text-white font-inter font-normal text-base tracking-wide">
+                        <ul role="list" class="marker:text-white list-disc pl-5 text-white font-inter font-normal text-base tracking-wide">
                             <li >Daily Attendance</li>
                             <li>Performance Status</li>
                             <li>Grade Management</li>
                             <li>Membership Status</li>
                             <li>Digital Agreements</li>
                         </ul>
-                        <ul role="list" class="marker:text-white list-disc pl-5 space-y-1 text-white font-inter font-normal text-base tracking-wide">
+                        <ul role="list" class="marker:text-white list-disc pl-5 text-white font-inter font-normal text-base tracking-wide">
                             <li >Custom Programs</li>
                             <li>Subranks</li>
                             <li>Grade Management</li>
