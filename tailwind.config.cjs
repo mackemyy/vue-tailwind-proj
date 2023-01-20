@@ -8,7 +8,9 @@ module.exports = {
     extend: {
       colors: {
         "blueGray": '#2E304F',
-        "darkBlue": '#334D9B'
+        "darkBlue": '#334D9B',
+        "darkerBlue": '#0D47A1',
+        "dirtyWhite": '#EEF2FE'
       }
     },
   },

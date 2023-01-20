@@ -22,9 +22,9 @@
                     <div class="ml-20 mt-3">
                         <a href="#" class=" tetx-blue-500
                         md:hover:bg-transparent md:border-0
-                        md:hover:text-blue-700 md:p-0 dark:text-blue-900 font-semibold font-inter text-base">Sign In</a>
+                        md:hover:text-blue-700 md:p-0 text-darkerBlue font-semibold font-inter text-base">Sign In</a>
                     </div>
-                    <ButtonsVue :buttonText="'Join Now'" :btnColor="'darkBlue'" :textColor="'darkBlue'" :yvalue="3" :xvalue="5"/>
+                        <ButtonsVue :buttonText="'Join Now'" :textColor="'white'" :btnColor="'darkBlue'" :yvalue="3" :xvalue="5"/>
                 </div>
                  
             </div>
@@ -33,7 +33,7 @@
     
 </template>
 
-<script>
+<script lang="ts">
 import ButtonsVue from './Buttons.vue'
 
     export default {
