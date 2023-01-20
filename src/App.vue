@@ -2,6 +2,7 @@
   <div>
     <HeaderVue/>
     <BodyVue/>
+    <SchoolContent/>
   </div>
   
 </template>
@@ -9,12 +10,15 @@
 <script>
 import BodyVue from './components/Body.vue';
 import HeaderVue from "./components/Header.vue";
+import SchoolContent from './components/SchoolContent.vue';
+
 
 export default {
   name: 'App',
   components: {
     HeaderVue,
     BodyVue,
+    SchoolContent,
   }
 }
 
