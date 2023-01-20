@@ -3,14 +3,19 @@
     <HeaderVue/>
     <BodyVue/>
     <SchoolContent/>
+    <FeatureContent/>
+    <FeatureTextContent/>
   </div>
   
 </template>
 
 <script>
 import BodyVue from './components/Body.vue';
+import FeatureContent from './components/FeatureContent.vue';
+import FeatureTextContent from './components/FeatureTextContent.vue';
 import HeaderVue from "./components/Header.vue";
 import SchoolContent from './components/SchoolContent.vue';
+
 
 
 export default {
@@ -19,6 +24,8 @@ export default {
     HeaderVue,
     BodyVue,
     SchoolContent,
+    FeatureContent,
+    FeatureTextContent,
   }
 }
 
