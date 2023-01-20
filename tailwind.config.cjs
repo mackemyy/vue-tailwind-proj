@@ -12,6 +12,7 @@ module.exports = {
         "darkerBlue": '#0D47A1',
         "dirtyWhite": '#EEF2FE',
         "lightBlue": '#527AF5',
+        "lightGray": '#7886A3'
       }
     },
   },
