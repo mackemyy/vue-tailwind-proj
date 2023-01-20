@@ -12,9 +12,9 @@ import ButtonsVue from './Buttons.vue';
 </script>
 
 <template>
-    <div class="bg-gradient-to-r from-blue-600 to-cyan-300 w-600 h-[27.5rem]">
-        <div class=" flex items-center ">
-            <div class="p-16 pl-[21rem]">
+    <div class="bg-gradient-to-r from-blue-600 to-cyan-300">
+        <div class="flex items-center justify-center gap-0">
+            <div class="p-12 pl-[21rem]">
                 <p class="text-white font-inter font-semibold text-5xl leading-6 tracking-wide">The Only <b><i>FREE</i></b><br/>Martial Arts Software<br/>in the World</p>
                 <p class="text-white font-inter font-medium text-base leading-6 mt-3 mb-5">Make management easy and friendly with Axis. Track your<br/> school’s performance, student’s progress and a lot more in<br/> just few clicks <b>without paying per month!</b></p>
                 <div>
