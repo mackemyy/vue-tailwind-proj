@@ -6,6 +6,7 @@
     <FeatureContent/>
     <FeatureTextContent/>
     <WhyAxis/>
+    <Footers/>
   </div>
   
 </template>
@@ -14,6 +15,7 @@
 import BodyVue from './components/Body.vue';
 import FeatureContent from './components/FeatureContent.vue';
 import FeatureTextContent from './components/FeatureTextContent.vue';
+import Footers from './components/Footer.vue';
 import HeaderVue from "./components/Header.vue";
 import SchoolContent from './components/SchoolContent.vue';
 import WhyAxis from './components/WhyAxis.vue';
@@ -29,6 +31,7 @@ export default {
     FeatureContent,
     FeatureTextContent,
     WhyAxis,
+    Footers,
   }
 }
 
